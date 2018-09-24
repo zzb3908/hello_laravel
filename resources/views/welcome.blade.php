@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    zzb,123
+                    zzb,123,test
                 </div>
 
                 <div class="links">
